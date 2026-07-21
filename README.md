@@ -32,9 +32,7 @@ Nomad is a modern SaaS landing page created for a fictional artificial intellige
 
 This project was created as part of my frontend portfolio to demonstrate modern landing page development using HTML, CSS and JavaScript.
 
-## 🚀 Live Demo
-
-GitHub Pages
+## 🚀 Live Demo (https://daviiliev.github.io/nomad-saas-landing-page/)
 
 ## 📸 Preview
 
