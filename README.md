@@ -1,6 +1,6 @@
-# 🤖 Nova AI – Premium SaaS Landing Page
+# 🤖 Nomad – Premium SaaS Landing Page
 
-Nova AI is a modern SaaS landing page created for a fictional artificial intelligence platform. The project focuses on premium UI design, responsive layouts, clean code and engaging user experience.
+Nomad is a modern SaaS landing page created for a fictional artificial intelligence platform. The project focuses on premium UI design, responsive layouts, clean code and engaging user experience.
 
 ## ✨ Features
 
